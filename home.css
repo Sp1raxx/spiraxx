@@ -1,0 +1,27 @@
+input{
+    background: black;
+    color: white
+}
+
+head{
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    line-height: 60px;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: line-through;
+    font-size: 16px;
+    text-shadow: 10px 5px 10px #ffffff; 
+    text-shadow: -10px -5px 10px #ffffff
+    font-weight: bolder;
+
+}
+p{
+    letter-spacing: 10px;
+    word-spacing: 20px;
+}
+body{
+    background: blue;
+    font-style: italic;
+
+}
